@@ -33,9 +33,9 @@ Create a project
 
 ```bash
     mvn archetype:generate \
-        -DarchetypeGroupId=com.github.spring-mvc-archetypes \
+        -DarchetypeGroupId=mx.com.nunez.xoco.my-spring-v3.x-mvc-quickstart-archetype \
         -DarchetypeArtifactId=my-spring-v3.x-mvc-quickstart-archetype \
-        -DarchetypeVersion=1.0.0 \
+        -DarchetypeVersion=1.0 \
         -DgroupId=my.groupid \
         -DartifactId=my-artifactId \
         -Dversion=version
